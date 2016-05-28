@@ -1,0 +1,5 @@
+.editorconfig
+.npmrc
+.travis.yml
+
+test/
