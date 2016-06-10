@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-spur",
+  "version": "0.0.0",
+  "description": "Extends eslint-config-airbnb-base with some basic overrides for the style to be used on the Spur Framework based packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": {
+    "name": "Agustin Colchado",
+    "email": "agustin@colchado.com"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "spur",
+    "spur-framework",
+    "eslint"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opentable/eslint-config-spur.git"
+  },
+  "bugs": {
+    "url": "https://github.com/opentable/eslint-config-spur/issues"
+  },
+  "homepage": "https://github.com/opentable/eslint-config-spur#readme",
+  "dependencies": {
+    "eslint": "^2.11.0",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-plugin-import": "^1.8.1"
+  }
+}
