@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-spur",
   "version": "0.0.0",
-  "description": "Extends eslint-config-airbnb with some basic overrides for the style to be used on the Spur based packages.",
+  "description": "Extends eslint-config-airbnb-base with some basic overrides for the style to be used on the Spur Framework based packages.",
   "main": "index.js",
   "scripts": {
     "test": "eslint ."
